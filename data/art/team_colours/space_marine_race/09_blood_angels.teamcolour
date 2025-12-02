@@ -1,0 +1,42 @@
+LocalInfo =  
+{
+	badge_name = "space_marine_race/09_blood_angels_badge",
+	associated_race = "space_marine_race",
+	banner_name = "space_marine_race/09_blood_angels_banner",
+}
+UnitCustomization =  
+{
+	pattern_name = "default",
+	force_name = "IX - Blood Angels",
+	Eyes =  
+	{
+		b = 0,
+		g = 188,
+		r = 28,
+	},
+	Weapons =  
+	{
+		b = 20,
+		g = 20,
+		r = 20,
+	},
+	Primary =  
+	{
+		b = 20,
+		g = 20,
+		r = 185,
+	},
+	Trim =  
+	{
+		b = 70,
+		g = 70,
+		r = 70,
+	},
+	Secondary =  
+	{
+		b = 20,
+		g = 20,
+		r = 185,
+	},
+}
+

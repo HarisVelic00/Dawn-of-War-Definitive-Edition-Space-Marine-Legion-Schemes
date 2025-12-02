@@ -1,0 +1,42 @@
+LocalInfo =  
+{
+	badge_name = "space_marine_race/14_death_guard_badge",
+	associated_race = "space_marine_race",
+	banner_name = "space_marine_race/14_death_guard_banner",
+}
+UnitCustomization =  
+{
+	pattern_name = "default",
+	force_name = "XIV - Death Guard",
+	Eyes =  
+	{
+		b = 30,
+		g = 0,
+		r = 200,
+	},
+	Weapons =  
+	{
+		b = 20,
+		g = 20,
+		r = 20,
+	},
+	Primary =  
+	{
+		b = 178,
+		g = 209,
+		r = 219,
+	},
+	Trim =  
+	{
+		b = 55,
+		g = 175,
+		r = 212,
+	},
+	Secondary =  
+	{
+		b = 41,
+		g = 98,
+		r = 85,
+	},
+}
+

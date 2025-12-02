@@ -1,0 +1,42 @@
+LocalInfo =  
+{
+	badge_name = "space_marine_race/03_emperors_children_badge",
+	associated_race = "space_marine_race",
+	banner_name = "space_marine_race/03_emperors_children_banner",
+}
+UnitCustomization =  
+{
+	pattern_name = "default",
+	force_name = "III - Emperor's Children",
+	Eyes =  
+	{
+		b = 0,
+		g = 188,
+		r = 28,
+	},
+	Weapons =  
+	{
+		b = 55,
+		g = 175,
+		r = 212,
+	},
+	Primary =  
+	{
+		b = 128,
+		g = 32,
+		r = 128,
+	},
+	Trim =  
+	{
+		b = 55,
+		g = 175,
+		r = 212,
+	},
+	Secondary =  
+	{
+		b = 128,
+		g = 32,
+		r = 128,
+	},
+}
+

@@ -1,0 +1,42 @@
+LocalInfo =  
+{
+	badge_name = "space_marine_race/15_thousand_sons_badge",
+	associated_race = "space_marine_race",
+	banner_name = "space_marine_race/15_thousand_sons_banner",
+}
+UnitCustomization =  
+{
+	pattern_name = "default",
+	force_name = "XV - Thousand Sons",
+	Eyes =  
+	{
+		b = 0,
+		g = 188,
+		r = 28,
+	},
+	Weapons =  
+	{
+		b = 255,
+		g = 255,
+		r = 255,
+	},
+	Primary =  
+	{
+		b = 20,
+		g = 20,
+		r = 185,
+	},
+	Trim =  
+	{
+		b = 55,
+		g = 175,
+		r = 212,
+	},
+	Secondary =  
+	{
+		b = 20,
+		g = 20,
+		r = 185,
+	},
+}
+
