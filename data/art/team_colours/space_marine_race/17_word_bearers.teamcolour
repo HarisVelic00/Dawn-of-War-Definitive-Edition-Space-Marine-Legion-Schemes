@@ -22,15 +22,15 @@ UnitCustomization =
 	},
 	Primary =  
 	{
-		b = 28,
-		g = 26,
-		r = 122,
+		b = 7,
+		g = 0,
+		r = 91,
 	},
 	Trim =  
 	{
-		b = 132,
-		g = 130,
-		r = 128,
+		b = 137,
+		g = 137,
+		r = 137,
 	},
 	Secondary =  
 	{

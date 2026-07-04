@@ -28,9 +28,9 @@ UnitCustomization =
 	},
 	Trim =  
 	{
-		b = 70,
-		g = 70,
-		r = 70,
+		b = 137,
+		g = 137,
+		r = 137,
 	},
 	Secondary =  
 	{
